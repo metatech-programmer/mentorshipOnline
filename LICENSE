@@ -1,0 +1,63 @@
+GNU GENERAL PUBLIC LICENSE
+   Versión 3, 29 Junio 2007
+
+Copyright (c) 2024 Santiago Alexander Aguilar Torres
+
+Este programa es software libre: puede redistribuirlo y/o modificarlo bajo los términos
+de la Licencia Pública General GNU publicada por la Free Software Foundation, ya sea la
+versión 3 de la Licencia, o (a su elección) cualquier versión posterior.
+
+Este programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA;
+sin siquiera la garantía implícita de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO PARTICULAR.
+Consulte la Licencia Pública General GNU para más detalles.
+
+Debería haber recibido una copia de la Licencia Pública General GNU junto con este programa.
+Si no la recibió, consulte <https://www.gnu.org/licenses/>.
+
+                     Términos y Condiciones Adicionales
+
+1. Código Fuente:
+   - Cualquier trabajo derivado debe estar disponible en código fuente.
+   - El código fuente debe ser distribuido bajo los mismos términos de esta licencia.
+   - Las modificaciones deben estar claramente marcadas y fechadas.
+
+2. Copyleft:
+   - Todas las versiones modificadas deben ser liberadas bajo esta misma licencia.
+   - No se permite incorporar este código en software propietario.
+
+3. Patentes:
+   - Los contribuyentes otorgan explícitamente derechos de patente.
+   - Si demanda por patentes a alguien por usar este software, su licencia termina automáticamente.
+
+4. Avisos:
+   - Debe mantener intactos todos los avisos de licencia y copyright.
+   - Debe incluir una copia de esta licencia con cada copia del programa.
+   - Debe informar a los usuarios cómo pueden obtener el código fuente.
+
+5. Garantías y Responsabilidad:
+   - El software se proporciona "tal cual", sin garantías.
+   - Los autores no son responsables por daños derivados del uso del software.
+
+6. Modificaciones:
+   - Las versiones modificadas deben estar marcadas como cambiadas.
+   - Debe indicar quién cambió el software y cuándo.
+
+7. Compatibilidad:
+   - Esta licencia es incompatible con términos que restrinjan los derechos otorgados aquí.
+   - No se puede usar este código en sistemas que prohíban la ingeniería inversa.
+
+8. Terminación:
+   - La licencia termina automáticamente si viola sus términos.
+   - Las sublicencias otorgadas antes de la terminación permanecen válidas.
+
+Para más información y el texto completo de la licencia:
+https://www.gnu.org/licenses/gpl-3.0.html
+
+Notas Adicionales:
+- Esta licencia protege las libertades del software libre.
+- Asegura que el software derivado también sea libre.
+- Promueve la colaboración y el compartir en la comunidad de desarrollo.
+- Protege contra la apropiación del código en software propietario.
+
+Para contacto y consultas sobre esta licencia:
+- metatech000@gmail.com
