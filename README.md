@@ -272,6 +272,3 @@ Si utilizas este software, por favor incluye una atribución a los autores origi
 Para preguntas o sugerencias, por favor contactar a cualquiera de los autores listados arriba.
 
 **Nota**: Asegúrate de configurar las variables de entorno apropiadamente antes de ejecutar en producción.
-```
-
-Asegúrate de que las rutas de las imágenes (`./client/public/...`) sean correctas y de que las imágenes existan en el repositorio para que se carguen correctamente en GitHub.
